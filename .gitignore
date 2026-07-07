@@ -1,0 +1,13 @@
+Core/Inc/Backup/
+Core/Src/Backup/
+Core/Startup/
+Debug/
+.settings/
+*.cproject
+*.mxproject
+*.project
+*.project.bak
+*.launch
+*.xml
+*.pdf
+*.ld
